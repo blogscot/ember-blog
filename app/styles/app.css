@@ -1,0 +1,12 @@
+html, body {
+  margin: 20px;
+  padding-top: 70px;
+}
+
+nav .active {
+	font-weight: bold;
+}
+
+.muted {
+	opacity: 0.5;
+}
